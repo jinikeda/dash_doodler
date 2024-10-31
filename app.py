@@ -2,7 +2,7 @@
 # for the USGS Coastal Change Hazards Program
 ##########################################################################
 # Note:
-# Modfiied by Jin Ikeda, LSU Center for Computation and Technology on 2022-10-30
+# Modfiied by Jin Ikeda, LSU Center for Computation and Technology on 2024-10-30
 # Jin Ikeda added the ability to upload JSON files for editing for labeling work on doodler
 ##########################################################################
 
